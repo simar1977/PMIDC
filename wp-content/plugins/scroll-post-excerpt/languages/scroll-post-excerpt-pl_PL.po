@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scroll post excerpt\n"
+"POT-Creation-Date: 2016-11-28 23:34+0800\n"
+"PO-Revision-Date: 2016-11-28 23:34+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../scroll-post-excerpt.php:155 ../scroll-post-excerpt.php:178
+#: ../scroll-post-excerpt.php:190 ../scroll-post-excerpt.php:195
+#: ../scroll-post-setting.php:6
+msgid "Scroll post excerpt"
+msgstr "Fragment postu przewijania"
+
+#: ../scroll-post-excerpt.php:157 ../scroll-post-setting.php:136
+msgid "Check official website for more information"
+msgstr "Sprawdzić oficjalną stronę internetową, aby uzyskać więcej informacji"
+
+#: ../scroll-post-excerpt.php:158 ../scroll-post-setting.php:137
+msgid "click here"
+msgstr "kliknij tutaj"
+
+#: ../scroll-post-setting.php:68
+msgid "Details successfully updated."
+msgstr "Szczegóły pomyślnie zaktualizowane."
+
+#: ../scroll-post-setting.php:73
+msgid "Scroll Setting"
+msgstr "Ustawienie przewijania"
+
+#: ../scroll-post-setting.php:76
+msgid "Widget title"
+msgstr "Tytuł widgetu"
+
+#: ../scroll-post-setting.php:78
+msgid "Enter widget title"
+msgstr "Wprowadź tytuł widget"
+
+#: ../scroll-post-setting.php:80
+msgid "Enter height of each post"
+msgstr "Wysokość każdego slajdu (w px)"
+
+#: ../scroll-post-setting.php:82
+msgid ""
+"If any overlap in the reel at front end, you should arrange (increase/"
+"decrease) this height. (Only number)"
+msgstr ""
+"Jeśli kolizji w rolce w przód, należy rozmieścić (wzrost/spadek) wysokości. "
+"(Tylko numer)"
+
+#: ../scroll-post-setting.php:84
+msgid "Display number of post"
+msgstr "Wyświetla liczbę post"
+
+#: ../scroll-post-setting.php:86
+msgid ""
+"Enter number of post at the same time in scroll to display. (Only number)"
+msgstr ""
+"Wprowadź liczbę post w tym samym czasie w przewijania, aby wyświetlić. "
+"(Tylko numer)"
+
+#: ../scroll-post-setting.php:88
+msgid "Enter max number of post to scroll"
+msgstr "Wprowadź maksymalny numer stanowiska do przewijania"
+
+#: ../scroll-post-setting.php:90
+msgid "Enter max number of post to scroll. (Only number)"
+msgstr "Wprowadź maksymalny numer stanowiska do przewijania. (Tylko numer)"
+
+#: ../scroll-post-setting.php:92
+msgid "Enter categories"
+msgstr "Podaj kategorie"
+
+#: ../scroll-post-setting.php:94
+msgid "Category IDs, separated by commas."
+msgstr "Podaj identyfikatorów kategorii, rozdzielając je przecinkami."
+
+#: ../scroll-post-setting.php:96
+msgid "Select orderbys"
+msgstr "Wybierz orderbys"
+
+#: ../scroll-post-setting.php:106
+msgid "Select orderbys from the list"
+msgstr "Wybierz adres e-mail z listy."
+
+#: ../scroll-post-setting.php:108
+msgid "Select order"
+msgstr "Wybierz kolejność"
+
+#: ../scroll-post-setting.php:113
+msgid "Select display order from the list"
+msgstr "Wybierz kolejność wyświetlania z listy"
+
+#: ../scroll-post-setting.php:115
+msgid "Excerpt length"
+msgstr "Długość fragmentu"
+
+#: ../scroll-post-setting.php:117
+msgid "Only Number"
+msgstr "Proszę wprowadzić limit czasu popup, tylko numer."
+
+#: ../scroll-post-setting.php:119
+msgid "Scrolling speed"
+msgstr ""
+"Ilości przewijania, oraz opóźnienie przewijania, ustawia szybkość "
+"przewijania."
+
+#: ../scroll-post-setting.php:120
+msgid "Slow"
+msgstr "Powoli"
+
+#: ../scroll-post-setting.php:122
+msgid "Fast"
+msgstr "Szybko"
+
+#: ../scroll-post-setting.php:123
+msgid "Select how fast you want the to scroll the items."
+msgstr "Zestaw jak szybko chcesz przewijać."
+
+#: ../scroll-post-setting.php:125
+msgid "Seconds to wait"
+msgstr "Sekund oczekiwania"
+
+#: ../scroll-post-setting.php:127
+msgid "How many seconds you want the wait to scroll"
+msgstr "Ile sekund ma czekać do przewijania"
+
+#: ../scroll-post-setting.php:127
+msgid "Example"
+msgstr "Przykład"

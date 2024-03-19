@@ -1,0 +1,1 @@
+[24-Aug-2016 09:59:30] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home4/vinasha2/public_html/smartinfosystem.com/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17

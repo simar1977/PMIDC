@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scroll post excerpt\n"
+"POT-Creation-Date: 2016-11-28 23:34+0800\n"
+"PO-Revision-Date: 2016-11-28 23:34+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../scroll-post-excerpt.php:155 ../scroll-post-excerpt.php:178
+#: ../scroll-post-excerpt.php:190 ../scroll-post-excerpt.php:195
+#: ../scroll-post-setting.php:6
+msgid "Scroll post excerpt"
+msgstr ""
+
+#: ../scroll-post-excerpt.php:157 ../scroll-post-setting.php:136
+msgid "Check official website for more information"
+msgstr ""
+
+#: ../scroll-post-excerpt.php:158 ../scroll-post-setting.php:137
+msgid "click here"
+msgstr ""
+
+#: ../scroll-post-setting.php:68
+msgid "Details successfully updated."
+msgstr ""
+
+#: ../scroll-post-setting.php:73
+msgid "Scroll Setting"
+msgstr ""
+
+#: ../scroll-post-setting.php:76
+msgid "Widget title"
+msgstr ""
+
+#: ../scroll-post-setting.php:78
+msgid "Enter widget title"
+msgstr ""
+
+#: ../scroll-post-setting.php:80
+msgid "Enter height of each post"
+msgstr ""
+
+#: ../scroll-post-setting.php:82
+msgid ""
+"If any overlap in the reel at front end, you should arrange (increase/"
+"decrease) this height. (Only number)"
+msgstr ""
+
+#: ../scroll-post-setting.php:84
+msgid "Display number of post"
+msgstr ""
+
+#: ../scroll-post-setting.php:86
+msgid ""
+"Enter number of post at the same time in scroll to display. (Only number)"
+msgstr ""
+
+#: ../scroll-post-setting.php:88
+msgid "Enter max number of post to scroll"
+msgstr ""
+
+#: ../scroll-post-setting.php:90
+msgid "Enter max number of post to scroll. (Only number)"
+msgstr ""
+
+#: ../scroll-post-setting.php:92
+msgid "Enter categories"
+msgstr ""
+
+#: ../scroll-post-setting.php:94
+msgid "Category IDs, separated by commas."
+msgstr ""
+
+#: ../scroll-post-setting.php:96
+msgid "Select orderbys"
+msgstr ""
+
+#: ../scroll-post-setting.php:106
+msgid "Select orderbys from the list"
+msgstr ""
+
+#: ../scroll-post-setting.php:108
+msgid "Select order"
+msgstr ""
+
+#: ../scroll-post-setting.php:113
+msgid "Select display order from the list"
+msgstr ""
+
+#: ../scroll-post-setting.php:115
+msgid "Excerpt length"
+msgstr ""
+
+#: ../scroll-post-setting.php:117
+msgid "Only Number"
+msgstr ""
+
+#: ../scroll-post-setting.php:119
+msgid "Scrolling speed"
+msgstr ""
+
+#: ../scroll-post-setting.php:120
+msgid "Slow"
+msgstr ""
+
+#: ../scroll-post-setting.php:122
+msgid "Fast"
+msgstr ""
+
+#: ../scroll-post-setting.php:123
+msgid "Select how fast you want the to scroll the items."
+msgstr ""
+
+#: ../scroll-post-setting.php:125
+msgid "Seconds to wait"
+msgstr ""
+
+#: ../scroll-post-setting.php:127
+msgid "How many seconds you want the wait to scroll"
+msgstr ""
+
+#: ../scroll-post-setting.php:127
+msgid "Example"
+msgstr ""
